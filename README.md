@@ -13,7 +13,9 @@
 ## 找到我
 
 - 官网：[恩禾 ENHE AI](https://www.enhe-tech.com.cn/)
-- X / Twitter：[@Amenenhe_ai](https://x.com/Amenenhe_ai)## Hi there 👋
+- X / Twitter：[@Amenenhe_ai](https://x.com/Amenenhe_ai)
+
+## Hi there 👋
 
 ## 📊 GitHub 数据
 
